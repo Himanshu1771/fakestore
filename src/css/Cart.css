@@ -1,0 +1,72 @@
+.cartcard{
+    height: 50vh;
+    width: 40vh;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+    background-color: white;
+    display:inline-block;
+    margin:50px;
+    margin-left: 60px;
+    overflow: hidden;
+    position: relative;
+    left:20vh
+
+}
+.cartcard img {
+    height: 30vh;
+    width: 40vh;
+}
+
+.cartcard h4{
+    position: relative;
+    top: 5px;
+    left: 10px;
+    background-color: white;
+}
+
+.cartcard p{
+    position: relative;
+    left: 10px;
+    top: 5px;
+    background-color: white; 
+    margin: 5px;
+}
+
+.btn{
+    overflow: hidden;
+    height: 30px;
+    width: 60px;
+    margin: 5px; 
+    border: none; 
+    margin-top: 40px;
+    cursor: pointer;
+}
+.btn img{
+    height:30px;
+    width: 60px;
+}
+
+.dbtn{
+    overflow: hidden;
+    height: 30px;
+    width: 60px;
+    margin: 85px; 
+    border: none; 
+    margin-top: 40px;
+    cursor: pointer;
+}
+.dbtn img{
+    height:30px;
+    width: 60px;
+}
+.cbtn{
+    height: 40px;
+    width: 150px;
+    position: relative;
+    background-color: #540cb3;
+    color: white;
+    top: 10vh;
+    left: 150vh;
+    cursor: pointer;
+}
+
+

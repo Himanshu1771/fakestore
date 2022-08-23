@@ -1,0 +1,16 @@
+
+.check1{
+    position: relative;
+    top: 10vh;
+    left: 25vh; 
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+    width: 150vh;
+    height: 20vh;
+    font-size: 50px;
+}
+
+.check2{
+    position:absolute;
+    left: 30vh;
+    top: 32vh;
+}

@@ -1,0 +1,54 @@
+.card{
+    height: 50vh;
+    width: 40vh;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+    background-color: white;
+    display:inline-block;
+    margin:60px;
+    overflow: hidden;
+    position: relative;
+    left:20vh
+
+}
+.card img {
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 30vh;
+    width: 35vh;
+}
+
+.card h4{
+    position: relative;
+    top: 15px;
+    left: 10px;
+    background-color: white;
+}
+
+.card p{
+    position: relative;
+    left: 10px;
+    top: 20px;
+    background-color: white; 
+}
+
+.btnadd{
+    overflow: hidden;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    height: 40px;
+    width: 50px;
+    cursor: pointer;
+    border: none;
+}
+
+.btnadd img{
+    position: relative;
+    height: 40px;
+    width: 50px;
+    left: 0;
+    top: 0;
+}
+
+
